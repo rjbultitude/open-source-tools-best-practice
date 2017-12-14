@@ -57,6 +57,6 @@ This is a list of suggestions to help authors make the most useful and usable to
 ## Useful links
 [Open Source Initiative FAQ](https://opensource.org/faq)
 
-[Compliance on Tech Crunch](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
+[Open Source Software: Compliance Basics And Best Practices](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
 
 [Open Source Etiquette Guidebook](https://css-tricks.com/author/kent-c-dodds-and-sarah-drasner/)
