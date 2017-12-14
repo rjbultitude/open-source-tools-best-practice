@@ -42,7 +42,7 @@ This is a list of suggestions to help authors make the most useful and usable to
 
 * Documentation clearly states what the goal is
 * Documentation clearly states how it might differ from the competition
-* Documentation clearly states what the version number is
+* Documentation clearly states what breaking changes may have been introduced between versions
 * Installation documentation is provided
 * Configuration documentation is provided
 * Examples of how it may be used are provided
