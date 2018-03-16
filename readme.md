@@ -40,19 +40,19 @@ These steps are designed to help authors make good decisions by being aware of t
 ## Publication checklist
 This is a list of suggestions to help authors make the most useful and usable tool possible.
 
-* Documentation clearly states what the goal is
-* Documentation clearly states how it might differ from the competition
-* Documentation clearly states what breaking changes may have been introduced between versions
-* Installation documentation is provided
-* Configuration documentation is provided
-* Examples of how it may be used are provided
-* If relevant, a working example is provided
-* Documentation acknowledges any contributors, dependencies, inspiration or references
-* The software and/or its dependencies have been checked for CVEs
-* Unit tests have been run and have passed
-* The coverage is at a suitable level to give the author confidence in the software
-* The code has been reviewed by another developer
-* The code has been tested within another application
+- [ ] Documentation clearly states what the goal is
+- [ ] Documentation clearly states how it might differ from the competition
+- [ ] Documentation clearly states what breaking changes may have been introduced between versions
+- [ ] Installation documentation is provided
+- [ ] Configuration documentation is provided
+- [ ] Examples of how it may be used are provided
+- [ ] If relevant, a working example is provided
+- [ ] Documentation acknowledges any contributors, dependencies, inspiration or references
+- [ ] The software and/or its dependencies have been checked for CVEs
+- [ ] Unit tests have been run and have passed
+- [ ] The coverage is at a suitable level to give the author confidence in the software
+- [ ] The code has been reviewed by another developer
+- [ ] The code has been tested within another application
 
 ## Useful links
 [Open Source Initiative FAQ](https://opensource.org/faq)
