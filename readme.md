@@ -60,3 +60,5 @@ This is a list of suggestions to help authors make the most useful and usable to
 [Open Source Software: Compliance Basics And Best Practices](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
 
 [Open Source Etiquette Guidebook](https://css-tricks.com/author/kent-c-dodds-and-sarah-drasner/)
+
+[Open Source Guides](https://opensource.guide/)
