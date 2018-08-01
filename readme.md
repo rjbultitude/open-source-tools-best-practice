@@ -62,3 +62,12 @@ This is a list of suggestions to help authors make the most useful and usable to
 [Open Source Etiquette Guidebook](https://css-tricks.com/author/kent-c-dodds-and-sarah-drasner/)
 
 [Open Source Guides](https://opensource.guide/)
+
+### Contribution to Open Source
+[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) – List of awesome beginners-friendly projects with especially labelled issues.
+[Up for grabs](https://up-for-grabs.net/) - List of projects which have curated tasks specifically for new contributors.
+[First timers only](https://twitter.com/first_tmrs_only) - Twitter bot tweeting links to Github issues labelled with first-timers-only
+
+### Get to know whom to thank or donate
+- [credits-cli](https://github.com/stefanjudis/credits-cli) - Find out on whose work your project is based on and if possible offer a coffee to keep them running.
+
